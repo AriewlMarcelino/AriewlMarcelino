@@ -2,7 +2,7 @@
 
 #### Welcome to my GitHub, I hope you stay happy in this area of study and reflection about the program languages. Here are some studies about the moment.
 
-![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvaPauulo&show_icons=true&theme=radical)
+![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=AriewlMarcelino&show_icons=true&theme=radical)
 
 ## Tecnology
 
